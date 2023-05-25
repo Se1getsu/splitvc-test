@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  splitvc-test
 //
-//  Created by 垣本 桃弥 on 2023/05/25.
+//  Created by 垣本 桃弥 on 2023/05/26.
 //
 
 import UIKit
